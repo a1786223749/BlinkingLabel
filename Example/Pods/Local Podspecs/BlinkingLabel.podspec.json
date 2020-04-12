@@ -1,0 +1,22 @@
+{
+  "name": "BlinkingLabel",
+  "version": "0.1.0",
+  "summary": "A short description of BlinkingLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/showr612/BlinkingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "showr612": "xiuhong.chen@hand-china.com"
+  },
+  "source": {
+    "git": "https://github.com/showr612/BlinkingLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BlinkingLabel/Classes/**/*"
+}
